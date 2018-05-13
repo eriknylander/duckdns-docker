@@ -2,6 +2,8 @@
 
 Tiny docker container that keeps your duckdns domain's IP address up to date.
 
+[Docker Hub](https://hub.docker.com/r/sampeka/duckdns/)
+
 ## Environment variables
 
 - `DOMAINS` (required) - one or several comma delimited domains
